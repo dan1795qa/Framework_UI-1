@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="11">
+            <item index="0" class="java.lang.String" itemvalue="Django" />
+            <item index="1" class="java.lang.String" itemvalue="httpx" />
+            <item index="2" class="java.lang.String" itemvalue="email-validator" />
+            <item index="3" class="java.lang.String" itemvalue="pydantic-settings" />
+            <item index="4" class="java.lang.String" itemvalue="pydantic" />
+            <item index="5" class="java.lang.String" itemvalue="pytest-rerunfailures" />
+            <item index="6" class="java.lang.String" itemvalue="Faker" />
+            <item index="7" class="java.lang.String" itemvalue="pytest" />
+            <item index="8" class="java.lang.String" itemvalue="pytest-xdist" />
+            <item index="9" class="java.lang.String" itemvalue="allure-pytest" />
+            <item index="10" class="java.lang.String" itemvalue="jsonschema" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="bytes.elements_to_be" />
+          <option value="bytes.element_to_be" />
+          <option value="bytes.element_to_be_clickable" />
+          <option value="random.random.randint" />
+          <option value="tests.conftest.function_user.response" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
