@@ -1,7 +1,7 @@
 import pytest
 from playwright.sync_api import sync_playwright, expect, Page
 
-from pages.dasboard_page import DashboardPage
+from pages.dashboard_page import DashboardPage
 from pages.login_page import LoginPage
 from pages.registration_page import RegistrationPage
 
